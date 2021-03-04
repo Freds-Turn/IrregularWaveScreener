@@ -1,0 +1,6 @@
+The following needs to be run from c:\python27\scripts
+
+pyinstaller.exe --hidden-import numpy --hidden-import win32com.client "R:\Corporate\2500 Engineering\Dynamic Analysis-DA\~Calculation Tools\Irregular Wave Screening Script\IrregWave9.py"
+pyinstaller.exe --hidden-import numpy --hidden-import win32com.client --hidden-import=pywintypes "R:\Corporate\2500 Engineering\Dynamic Analysis-DA\~Calculation Tools\Irregular Wave Screening Script\IrregWave10.py"
+
+

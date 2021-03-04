@@ -1,0 +1,1 @@
+run the .exe file located in the IrregWave subfolder for all the necessary dependancies that are required.
