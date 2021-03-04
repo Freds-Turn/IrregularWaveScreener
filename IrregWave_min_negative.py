@@ -8,7 +8,7 @@ import win32com.client as win32
 import time
 import multiprocessing
 import logging
-#import Tkinter
+#import Tkinter fd
 #import threading
 import numpy as np
 from random import randint
